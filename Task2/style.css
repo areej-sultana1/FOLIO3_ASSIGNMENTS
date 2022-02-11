@@ -1,0 +1,128 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("https://images.unsplash.com/photo-1597846411462-c8bce7b5b759?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGFraXN0YW4lMjBpbWFnZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+   width:100%;
+   height:100%;
+    background-position: center;
+    
+    
+}
+#main h2{
+    text-align:center ;
+    color:white;
+    font-size:45px;
+
+}
+h1
+{
+   color:white;
+   
+}
+.text{
+    text-align:start;
+    margin:20px;
+}
+nav
+{
+    display:block;
+    float:right;
+    margin-top:-42px;
+    color:white;
+    font-size:24px;
+}
+a{
+    color:white;
+    margin:12px;
+}
+
+article
+{
+    border-radius: 20px;
+    
+    width: 250px;
+    height:100px;
+    margin:1%;
+  float:left;
+  margin-top:3%;
+    padding: 50px 0;
+    color: rgb(17, 16, 16);
+    padding: 60px 30px;
+    font: 25px  oblique bold;
+    box-shadow: 0 0 20px 2px rgba(0,0,0,0.5);
+    transition: transform 0.5s;
+}
+#one{
+    background-image:  url("https://media.istockphoto.com/photos/quaideazam-picture-id184944186?b=1&k=20&m=184944186&s=170667a&w=0&h=0p1M6LA-As12_D8t6xsAFeIvz-f09qNudq3iJFPMnUo=");
+}
+#two{
+    background-size: cover;
+    background-image:  url("https://images.unsplash.com/photo-1595234404623-250bf6c9474c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGh5ZGVyYWJhZCUyMGltYWdlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+    
+}
+#three{
+    background-size: cover;
+    background-image:  url("https://media.istockphoto.com/photos/srinagar-kashmir-picture-id1171962535?b=1&k=20&m=1171962535&s=170667a&w=0&h=WcvwF1M1Jh9fs3_AD0O5e5mpuES7ZEjATRPsy2qB5m4=");
+}
+#four{
+    background-size: cover;
+    background-image:  url("https://media.istockphoto.com/photos/flying-birds-over-the-mosque-picture-id1197077400?b=1&k=20&m=1197077400&s=170667a&w=0&h=PgT6mWurIuvNObBjsPqDXw35ck9xSRIfqXu_ZH8H9bg=");
+}
+
+article:hover{
+    cursor: pointer;
+    transform: translate(10px, 10px);
+}
+#foot{
+   text-align:center;
+   color:white;
+   margin-bottom:12px;
+}
+
+input
+{
+    border-radius: 2px;
+    height:30px;
+    width:500px;
+}
+button
+{
+    border-radius:20px;
+    width:100px;
+    height:30px;
+    font: 18px bold ;
+    background-color:rgb(137, 245, 169);
+    transition: transform 0.5s;
+
+}
+button:hover{
+    cursor: pointer;
+    transform: translate(10px 1);
+}
+footer{
+    text-align:center;
+    padding:20px;
+    margin:10px;
+    color:white;
+}
+footer p{
+    font-size:18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
