@@ -1,0 +1,54 @@
+
+h1
+{
+    text-align:center;
+}
+.main
+{
+    border:2px solid black;
+}
+.container
+{
+    border:2px solid black;
+    width:350px;
+    background-color:lightgray;
+
+}
+div
+{
+    float:left;
+    margin:20px;
+    
+}
+p{
+    margin:20px;
+    margin-top:60px;
+    
+
+}
+#title 
+{
+    padding:10px;
+     width:150px;
+     margin-top:0px;
+     float:right;
+     border-left :2px solid black;
+     border-bottom :2px solid black;
+     text-align: center;
+}
+.one
+{
+   background-color: pink;
+
+}
+ .two
+{
+    background-color: red;
+    color:white;
+    
+}
+.three
+{
+ background-color: rgb(215, 247, 168);
+        
+}
