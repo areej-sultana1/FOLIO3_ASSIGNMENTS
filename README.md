@@ -1,5 +1,6 @@
 # FOLIO3_ASSIGNMENTS 
-Hello, I am Areej Sultana currently studying at FAST university,and will be graduating in June 2022. I have worked as a front-end developer at Interns Pakistan and would love to expand and polished my skills in this field.
+Hello, I am Areej Sultana currently studying at FAST university,and will be graduating in June 2022. I have worked as a front-end developer at Interns Pakistan and would love to expand and polished my skills in this field through this training.
+Besides coding, I always like to learn new things and currently taking interest in sports.
 
 Task1:
 ![P1](https://user-images.githubusercontent.com/82303448/153655571-908183bc-0ba4-49ad-90d8-9919e6a52e45.PNG)
