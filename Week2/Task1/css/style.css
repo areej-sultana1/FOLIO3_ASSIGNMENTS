@@ -1,0 +1,85 @@
+
+body
+{
+    margin:0 auto;
+    padding:0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header
+{
+    text-align:center;
+    padding:15px;
+    margin :0 auto;
+    background :linear-gradient(160deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color:white;
+}
+
+.div1
+{
+    width:350px;
+    box-sizing: border-box;
+   float: left;
+    padding:20px;
+    margin:50px;
+     background: linear-gradient(#eb8282, #9198e5);
+    border-radius: 14px;
+}
+.displaylists{
+   float:left;
+}
+span{
+
+    color:red;
+    text-align:center;
+}
+
+.list
+{
+    float:right;
+    text-align:left;
+}
+li
+{
+ 
+    width:100%;
+    list-style: none;
+    border:none;
+    margin:6px;
+    font: 19px bold black;
+}
+ button 
+{
+  border:none;
+  padding:6px;
+  margin:6px;
+  font-size: larger;
+  border-radius: 6px;;
+} 
+button .input_class
+{
+    width:100%;
+    padding: 25px;
+    margin:6px;
+    border:none;
+    background-color :rgb(200, 248, 232);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+/* list of tasks dispalys setting */
+input, .displaylists
+{  
+    width:93%;  
+    padding:12px;
+    margin:3px;
+    border:none;
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+}
+button:hover{
+    
+    cursor: pointer;
+
+}
+
+   

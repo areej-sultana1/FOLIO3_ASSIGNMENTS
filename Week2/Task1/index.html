@@ -1,0 +1,30 @@
+<!Doctype html>
+<html>
+<head>
+  <meta charset ="UTF-8"/>
+  <link rel="stylesheet" href="css/style.css" type="text/css"/>
+  <title>todo list task1</title>
+</head>
+<header>
+    <h1>Your To Do list!</h1>
+</header>
+<!-- this is main body -->
+<body>
+    
+    <div class ="div1">
+        <h2>Add your Task here!</h2>
+        <input type="text" id="tasks"/><br/>
+        <button onclick="showtask()"  class = "input_class" >Add!</button><br/>
+        <span id ="error"></span>
+    </div>
+    <div class ="div1" id ="div1">
+        <h2>Tasks!</h2>
+       <!-- here all the tasks would be shown -->
+        <ul id ="displaylists">   
+        </ul>
+         <button onclick="deletelist()" class ="input_class" >clear All</button>
+    </div>
+
+</body>
+<script src="script.js"></script>
+</html>

@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    top:50%;
+    margin:0 auto;
+    padding: 2px;
+}
+p{
+    font:20px solid black;
+    margin:3px;
+}
+
+li
+{
+    display: inline-flex;
+    margin:15px;
+    font: 18px solid black;
+
+}
+button{
+    padding:7px;
+    border:none;
+    border-radius: 3px;
+    background-color: aquamarine;
+
+}
+button:hover{
+    cursor: pointer;
+}
+span{
+    color:red;
+
+}
